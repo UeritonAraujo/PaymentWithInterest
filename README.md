@@ -2,7 +2,7 @@
 
 > Status: Developing 🚨
 
-[![NPM](https://img.shields.io/badge/License-MIT-green)](https://github.com/UeritonAraujo/-Payment-of-Contract-in-Installments-with-Interest/blob/UeritonAraujo-patch-1/LICENSE)
+[![NPM](https://img.shields.io/badge/License-MIT-green)](https://github.com/UeritonAraujo/PaymentWithInterest/blob/main/LICENSE)
 
 A company wants to automate the processing of its contracts. Processing a contract consists of generating the INSTALLMENTS TO BE PAID FOR THAT CONTRACT, based on the desired number of months.
 
