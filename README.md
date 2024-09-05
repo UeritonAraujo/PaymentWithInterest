@@ -23,7 +23,7 @@ so on. Show installment data and values ​​on the screen.
   </tr>
   <tr>
     <td>
-      22
+      21
     </td>
   </tr>
 </table>
